@@ -9,12 +9,12 @@ function rollDice(){
     document.querySelector(".img2").setAttribute("src",img_src2);
 
     if(d_num1 > d_num2){
-        document.querySelector("h1").innerHTML = "Player 1 Wins ";
+        document.querySelector("h4").innerHTML = "Player 1 Wins ";
     }
     else if(d_num1 === d_num2){
-        document.querySelector("h1").innerHTML = "Match Draws";
+        document.querySelector("h4").innerHTML = "Match Draws";
     }
     else{
-        document.querySelector("h1").innerHTML = "Player 2 Wins ";
+        document.querySelector("h4").innerHTML = "Player 2 Wins ";
     }
 }
