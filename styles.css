@@ -75,17 +75,17 @@ button {
   }
 
   img {
-    width: 60%;
+    width: 80%;
   }
 
   footer {
-    margin-top: 10%;
-    font-size: 1rem;
+    margin-top: 30%;
+    font-size: 2rem;
   }
 
   button {
-    width: 160px;
-    height: 80px;
+    width: 200px;
+    height: 100px;
   }
 }
 
@@ -111,7 +111,7 @@ button {
   }
 
   button {
-    width: 140px;
-    height: 70px;
+    width: 160px;
+    height: 80px;
   }
 }
